@@ -1,0 +1,337 @@
+[
+    {
+        "id": 1,
+        "title": "Grand Theft Auto",
+        "short": "1",
+        "year": "1997",
+        "cover": "/src/images/games_cover/01_GTA1.jpg",
+        "protagonist": [
+            {
+                "name": "Bubba",
+                "image": "/src/images/protagonists/01_Bubba.png"
+            },
+            {
+                "name": "Divine",
+                "image": "/src/images/protagonists/01_Divine.png"
+            },
+            {
+                "name": "Katie",
+                "image": "/src/images/protagonists/01_Katie.png"
+            },
+            {
+                "name": "Kivrov",
+                "image": "/src/images/protagonists/01_Kivrov.png"
+            },
+            {
+                "name": "Mikki",
+                "image": "/src/images/protagonists/01_Mikki.png"
+            },
+            {
+                "name": "Travis",
+                "image": "/src/images/protagonists/01_Travis.png"
+            },
+            {
+                "name": "Troy",
+                "image": "/src/images/protagonists/01_Troy.png"
+            },
+            {
+                "name": "Ulrika",
+                "image": "/src/images/protagonists/01_Ulrika.png"
+            }
+        ],
+        "map": [
+            {
+                "name": "Liberty City (right)\nNew Guernsey (left)",
+                "image": "/src/images/maps/01_libertycity.png"
+            },
+            {
+                "name": "San Andreas",
+                "image": "/src/images/maps/01_sanandreas.png"
+            },
+            {
+                "name": "Vice City",
+                "image": "/src/images/maps/01_vicecity.png"
+            }
+        ],
+        "history": "Grand Theft Auto is an action-adventure video game developed by DMA Design and published by BMG Interactive. It is the first title of the Grand Theft Auto series and was released in November 1997 for MS-DOS and Microsoft Windows, in December 1997 for the PlayStation and in October 1999 for the Game Boy Color. The game's narrative follows a criminal who climbs in status within the criminal underworld across three fictional cities, inspired by real-life locations. The gameplay is presented from a top-down perspective and takes place within an open-world environment in which the player is not required to perform missions, although they are necessary to progress through the levels.\nGrand Theft Auto began development as a game titled Race 'n' Chase, in which the player controlled a police officer pursuing criminals. However, the game was considered dull, and the concept of playing as a criminal was adopted. The development team worked to ensure that the player would have the freedom to play however they intend. Grand Theft Auto created a great deal of controversy even before its launch due to its violent content, with discussions taking place in the British House of Lords about banning its sale. The game's marketing campaign, organized by publicist Max Clifford, exploited this stirring of controversy as free promotion.",
+        "gameplay": {
+            "thumbnail": [
+                {
+                    "image": "/src/images/other/GTA1_PC_in-game.png",
+                    "des": "Gameplay image, showing the top-down view in Liberty City"
+                }
+            ],
+            "info": "Grand Theft Auto is made up of six levels split between three main cities; each locale is based on a real-life city in the United States, with an alternative name: Liberty City (New York City), San Andreas (San Francisco), and Vice City (Miami). The progression is linear, as each level completed automatically unlocks the next one in the chain. Players begin a game choosing a character from amongst eight—four in the PlayStation version—and naming them, though the choice is purely aesthetic, and doesn't affect the overall gameplay. In each level, the player's ultimate objective is to reach a target number of points, which starts at $1,000,000 but becomes higher in the later levels, and then reach the level's 'goal' to complete the stage. The player is free to do whatever they want, but have limited lives upon doing so. Points can be gained from anything, such as causing death and destruction amid the traffic in the city, completing special challenges, or stealing and selling cars for profit. However, the more typical means to achieve their target is to perform tasks for the level's local crime syndicate. Jobs can be initiated by visiting and touching a ringing telephone box, with each level's set of jobs on offer being unique.\nJobs can be completed in any order, and each has some level of freedom to how it is successfully completed, though destinations in each are fixed. Successful completion of a job awards the player points, unlocks harder missions with greater rewards, and provides a 'multiplier'—a bonus that increases the value of points earned from completing jobs and actions. Failing a job by not completing objectives, being arrested or dying, secures no points and can seal off other tasks in the chain. Players can find equipment across the level's map to help them with jobs and making points, including weapons and body armour, the latter increasing the player's survival against attacks from enemies. If the player is killed (referred to in the game as 'Wasted'), they lose a life, lose all their current equipment, and have their multiplier bonus reset; losing all their lives will result in players having to restart a level. Law enforcement is present in each level, and doing criminal actions will cause the player to raise their notoriety with police; the higher the level, the tougher the response. If the player is arrested, they forfeit all equipment, and have their multiplier bonus halved. PC versions of the game were released with networked multiplayer gameplay using the IPX protocol."
+        },
+        "about": {
+            "developer": {
+                "title": "Developer(s)",
+                "list": [
+                    {
+                        "name": "DMA Design"
+                    },
+                    {
+                        "name": "Tarantula Studios (GBC)"
+                    }
+                ]
+            },
+            "publisher": {
+                "title": "Publisher(s)",
+                "list": [
+                    {
+                        "name": "Windows, MS-DOS"
+                    },
+                    {
+                        "name": "EU: BMG Interactive"
+                    },
+                    {
+                        "name": "NA: ASC Games"
+                    },
+                    {
+                        "name": "PlayStation"
+                    },
+                    {
+                        "name": "PAL: BMG Interactive"
+                    },
+                    {
+                        "name": "NA: Take-Two Interactive"
+                    },
+                    {
+                        "name": "Game Boy Color"
+                    },
+                    {
+                        "name": "WW: Rockstar Games"
+                    }
+                ]
+            },
+            "director": {
+                "title": "Director(s)",
+                "list": [
+                    {
+                        "name": "Keith R. Hamilton"
+                    }
+                ]
+            },
+            "producer": {
+                "title": "Producer(s)",
+                "list": [
+                    {
+                        "name": "David Jones"
+                    }
+                ]
+            },
+            "designer": {
+                "title": "Designer(s)",
+                "list": [
+                    {
+                        "name": "Stephen Banks"
+                    },
+                    {
+                        "name": "Paul Farley"
+                    },
+                    {
+                        "name": "Billy Thomson"
+                    }
+                ]
+            },
+            "programmer": {
+                "title": "Programmer(s)",
+                "list": [
+                    {
+                        "name": "Keith R. Hamilton"
+                    }
+                ]
+            },
+            "artist": {
+                "title": "Artist(s)",
+                "list": [
+                    {
+                        "name": "Ian McQue"
+                    }
+                ]
+            },
+            "writer": {
+                "title": "Writer(s)",
+                "list": [
+                    {
+                        "name": "Brian Baglow"
+                    },
+                    {
+                        "name": "Brian Lawson"
+                    }
+                ]
+            },
+            "composer": {
+                "title": "Composer(s)",
+                "list": [
+                    {
+                        "name": "Colin Anderson"
+                    },
+                    {
+                        "name": "Craig Conner"
+                    },
+                    {
+                        "name": "Grant Middleton"
+                    }
+                ]
+            },
+            "series": {
+                "title": "Series",
+                "list": [
+                    {
+                        "name": "Grand Theft Auto"
+                    }
+                ]
+            },
+            "platform": {
+                "title": "Platform(s)",
+                "list": [
+                    {
+                        "name": "MS-DOS"
+                    },
+                    {
+                        "name": "Microsoft Windows"
+                    },
+                    {
+                        "name": "PlayStation"
+                    },
+                    {
+                        "name": "Game Boy Color"
+                    }
+                ]
+            },
+            "release": {
+                "title": "Release",
+                "list": [
+                    {
+                        "name": "28 November 1997"
+                    }
+                ]
+            },
+            "genre": {
+                "title": "Genre(s)",
+                "list": [
+                    {
+                        "name": "Action-adventure"
+                    }
+                ]
+            },
+            "mode": {
+                "title": "Mode(s)",
+                "list": [
+                    {
+                        "name": "Singleplayer"
+                    },
+                    {
+                        "name": "Multiplayer"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 2,
+        "title": "Grand Theft Auto: London 1969",
+        "short": "London 1969",
+        "year": "1999",
+        "cover": "/src/images/games_cover/02_GTALondon1969.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Grand Theft Auto: London 1961",
+        "short": "London 1961",
+        "year": "1999",
+        "cover": "/src/images/games_cover/03_GTALondon1961.png"
+    },
+    {
+        "id": 4,
+        "title": "Grand Theft Auto 2",
+        "short": "2",
+        "year": "1999",
+        "cover": "/src/images/games_cover/04_GTA2.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Grand Theft Auto III",
+        "short": "III",
+        "year": "2001",
+        "cover": "/src/images/games_cover/05_GTAIII.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Grand Theft Auto: Vice City",
+        "short": "Vice City",
+        "year": "2002",
+        "cover": "/src/images/games_cover/06_GTAViceCity.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Grand Theft Auto: San Andreas",
+        "short": "San Andreas",
+        "year": "2004",
+        "cover": "/src/images/games_cover/07_GTASanAndreas.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Grand Theft Auto Advance",
+        "short": "Advance",
+        "year": "2004",
+        "cover": "/src/images/games_cover/08_GTAAdvance.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Grand Theft Auto: Liberty City Stories",
+        "short": "LC Stories",
+        "year": "2005",
+        "cover": "/src/images/games_cover/09_GTALCS.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Grand Theft Auto: Vice City Stories",
+        "short": "VC Stories",
+        "year": "2006",
+        "cover": "/src/images/games_cover/10_GTAVCS.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Grand Theft Auto IV",
+        "short": "IV",
+        "year": "2008",
+        "cover": "/src/images/games_cover/11_GTAIV.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Grand Theft Auto IV: The Lost and Damned",
+        "short": "IV:TLAD",
+        "year": "2009",
+        "cover": "/src/images/games_cover/12_GTAIVTLAD.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Grand Theft Auto IV: The Ballad of Gay Tony",
+        "short": "IV:TBGT",
+        "year": "2009",
+        "cover": "/src/images/games_cover/13_GTAIVTBOGT.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Grand Theft Auto: Chinatown Wars",
+        "short": "Chinatown Wars",
+        "year": "2009",
+        "cover": "/src/images/games_cover/14_GTACTW.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Grand Theft Auto V",
+        "short": "V",
+        "year": "2013",
+        "cover": "/src/images/games_cover/15_GTAV.png"
+    },
+    {
+        "id": 16,
+        "title": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+        "short": "Definitive Edition",
+        "year": "2021",
+        "cover": "/src/images/games_cover/16_GTATRTDE.png"
+    }
+]
