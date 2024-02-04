@@ -1,8 +1,8 @@
 <template>
     <section class="grid place-items-center py-16 bg-cover relative overflow-hidden">
-        <img src="../images/cover/cover.png" class="absolute h-full w-full object-cover object-center animate-zoom" draggable="false">
+        <img src="/images/cover/cover.png" class="absolute h-full w-full object-cover object-center animate-zoom" draggable="false">
         <div class="z-10 w-3/5 grid place-items-center space-y-8">
-            <img src="../images/logo/gta_logo.png" class="h-[256px] transition-all hover:invert hover:rotate-6">
+            <img src="/images/logo/gta_logo.png" class="h-[256px] transition-all hover:invert hover:rotate-6">
             <p class="text-base-100 text-center font-semibold text-[18px]">Grand Theft Auto (GTA) is a series of action-adventure games created by David Jones and Mike Dailly. Later titles were developed under the oversight of brothers Dan and Sam Houser, Leslie Benzies and Aaron Garbut. It is primarily developed by British development house Rockstar North (formerly DMA Design), and published by its parent company, Rockstar Games.</p>
         </div>
     </section>

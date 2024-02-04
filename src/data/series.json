@@ -4,60 +4,60 @@
         "title": "Grand Theft Auto",
         "short": "1",
         "year": "1997",
-        "cover": "/src/images/games_cover/01_GTA1.jpg",
+        "cover": "/images/games_cover/01_GTA1.jpg",
         "protagonist": [
             {
                 "name": "Bubba",
-                "image": "/src/images/protagonists/01_Bubba.png"
+                "image": "/images/protagonists/01_Bubba.png"
             },
             {
                 "name": "Divine",
-                "image": "/src/images/protagonists/01_Divine.png"
+                "image": "/images/protagonists/01_Divine.png"
             },
             {
                 "name": "Katie",
-                "image": "/src/images/protagonists/01_Katie.png"
+                "image": "/images/protagonists/01_Katie.png"
             },
             {
                 "name": "Kivrov",
-                "image": "/src/images/protagonists/01_Kivrov.png"
+                "image": "/images/protagonists/01_Kivrov.png"
             },
             {
                 "name": "Mikki",
-                "image": "/src/images/protagonists/01_Mikki.png"
+                "image": "/images/protagonists/01_Mikki.png"
             },
             {
                 "name": "Travis",
-                "image": "/src/images/protagonists/01_Travis.png"
+                "image": "/images/protagonists/01_Travis.png"
             },
             {
                 "name": "Troy",
-                "image": "/src/images/protagonists/01_Troy.png"
+                "image": "/images/protagonists/01_Troy.png"
             },
             {
                 "name": "Ulrika",
-                "image": "/src/images/protagonists/01_Ulrika.png"
+                "image": "/images/protagonists/01_Ulrika.png"
             }
         ],
         "map": [
             {
                 "name": "Liberty City (right)\nNew Guernsey (left)",
-                "image": "/src/images/maps/01_libertycity.png"
+                "image": "/images/maps/01_libertycity.png"
             },
             {
                 "name": "San Andreas",
-                "image": "/src/images/maps/01_sanandreas.png"
+                "image": "/images/maps/01_sanandreas.png"
             },
             {
                 "name": "Vice City",
-                "image": "/src/images/maps/01_vicecity.png"
+                "image": "/images/maps/01_vicecity.png"
             }
         ],
         "history": "Grand Theft Auto is an action-adventure video game developed by DMA Design and published by BMG Interactive. It is the first title of the Grand Theft Auto series and was released in November 1997 for MS-DOS and Microsoft Windows, in December 1997 for the PlayStation and in October 1999 for the Game Boy Color. The game's narrative follows a criminal who climbs in status within the criminal underworld across three fictional cities, inspired by real-life locations. The gameplay is presented from a top-down perspective and takes place within an open-world environment in which the player is not required to perform missions, although they are necessary to progress through the levels.\nGrand Theft Auto began development as a game titled Race 'n' Chase, in which the player controlled a police officer pursuing criminals. However, the game was considered dull, and the concept of playing as a criminal was adopted. The development team worked to ensure that the player would have the freedom to play however they intend. Grand Theft Auto created a great deal of controversy even before its launch due to its violent content, with discussions taking place in the British House of Lords about banning its sale. The game's marketing campaign, organized by publicist Max Clifford, exploited this stirring of controversy as free promotion.",
         "gameplay": {
             "thumbnail": [
                 {
-                    "image": "/src/images/other/GTA1_PC_in-game.png",
+                    "image": "/images/other/GTA1_PC_in-game.png",
                     "des": "Gameplay image, showing the top-down view in Liberty City"
                 }
             ],
@@ -234,104 +234,104 @@
         "title": "Grand Theft Auto: London 1969",
         "short": "London 1969",
         "year": "1999",
-        "cover": "/src/images/games_cover/02_GTALondon1969.jpg"
+        "cover": "/images/games_cover/02_GTALondon1969.jpg"
     },
     {
         "id": 3,
         "title": "Grand Theft Auto: London 1961",
         "short": "London 1961",
         "year": "1999",
-        "cover": "/src/images/games_cover/03_GTALondon1961.png"
+        "cover": "/images/games_cover/03_GTALondon1961.png"
     },
     {
         "id": 4,
         "title": "Grand Theft Auto 2",
         "short": "2",
         "year": "1999",
-        "cover": "/src/images/games_cover/04_GTA2.jpg"
+        "cover": "/images/games_cover/04_GTA2.jpg"
     },
     {
         "id": 5,
         "title": "Grand Theft Auto III",
         "short": "III",
         "year": "2001",
-        "cover": "/src/images/games_cover/05_GTAIII.jpg"
+        "cover": "/images/games_cover/05_GTAIII.jpg"
     },
     {
         "id": 6,
         "title": "Grand Theft Auto: Vice City",
         "short": "Vice City",
         "year": "2002",
-        "cover": "/src/images/games_cover/06_GTAViceCity.jpg"
+        "cover": "/images/games_cover/06_GTAViceCity.jpg"
     },
     {
         "id": 7,
         "title": "Grand Theft Auto: San Andreas",
         "short": "San Andreas",
         "year": "2004",
-        "cover": "/src/images/games_cover/07_GTASanAndreas.jpg"
+        "cover": "/images/games_cover/07_GTASanAndreas.jpg"
     },
     {
         "id": 8,
         "title": "Grand Theft Auto Advance",
         "short": "Advance",
         "year": "2004",
-        "cover": "/src/images/games_cover/08_GTAAdvance.jpg"
+        "cover": "/images/games_cover/08_GTAAdvance.jpg"
     },
     {
         "id": 9,
         "title": "Grand Theft Auto: Liberty City Stories",
         "short": "LC Stories",
         "year": "2005",
-        "cover": "/src/images/games_cover/09_GTALCS.jpg"
+        "cover": "/images/games_cover/09_GTALCS.jpg"
     },
     {
         "id": 10,
         "title": "Grand Theft Auto: Vice City Stories",
         "short": "VC Stories",
         "year": "2006",
-        "cover": "/src/images/games_cover/10_GTAVCS.jpg"
+        "cover": "/images/games_cover/10_GTAVCS.jpg"
     },
     {
         "id": 11,
         "title": "Grand Theft Auto IV",
         "short": "IV",
         "year": "2008",
-        "cover": "/src/images/games_cover/11_GTAIV.jpg"
+        "cover": "/images/games_cover/11_GTAIV.jpg"
     },
     {
         "id": 12,
         "title": "Grand Theft Auto IV: The Lost and Damned",
         "short": "IV:TLAD",
         "year": "2009",
-        "cover": "/src/images/games_cover/12_GTAIVTLAD.jpg"
+        "cover": "/images/games_cover/12_GTAIVTLAD.jpg"
     },
     {
         "id": 13,
         "title": "Grand Theft Auto IV: The Ballad of Gay Tony",
         "short": "IV:TBGT",
         "year": "2009",
-        "cover": "/src/images/games_cover/13_GTAIVTBOGT.jpg"
+        "cover": "/images/games_cover/13_GTAIVTBOGT.jpg"
     },
     {
         "id": 14,
         "title": "Grand Theft Auto: Chinatown Wars",
         "short": "Chinatown Wars",
         "year": "2009",
-        "cover": "/src/images/games_cover/14_GTACTW.jpg"
+        "cover": "/images/games_cover/14_GTACTW.jpg"
     },
     {
         "id": 15,
         "title": "Grand Theft Auto V",
         "short": "V",
         "year": "2013",
-        "cover": "/src/images/games_cover/15_GTAV.png"
+        "cover": "/images/games_cover/15_GTAV.png"
     },
     {
         "id": 16,
         "title": "Grand Theft Auto: The Trilogy – The Definitive Edition",
         "short": "Definitive Edition",
         "year": "2021",
-        "cover": "/src/images/games_cover/16_GTATRTDE.png"
+        "cover": "/images/games_cover/16_GTATRTDE.png"
     }
 ]
