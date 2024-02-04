@@ -1,6 +1,6 @@
 <template>
   <section class="grid place-items-center py-16 bg-cover relative overflow-hidden">
-    <img src="../images/cover/cover3.png" class="absolute h-full w-full object-cover object-center animate-zoom"
+    <img src="/images/cover/cover3.png" class="absolute h-full w-full object-cover object-center animate-zoom"
       draggable="false">
     <div class="z-10 w-3/5 grid place-items-center space-y-8">
       <h1 class="text-center text-5xl font-semibold text-white">{{ collection.title }}</h1>
